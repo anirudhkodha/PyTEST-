@@ -1,0 +1,53 @@
+{
+	"PersonalDetails":{
+		"OtherGivenName": "James",
+		"OtherNameOpt": "No",
+		"OtherName": {
+			"Type": "Alias",
+			"Fname": "Test",
+			"Mname": "Test1",
+			"Lname": "Test2"			
+		},
+		"BirthCountry": "Pakistan"
+	},
+	"Address":{
+		"street": "115 Picnic Point Rd",
+		"suburb": "Picnic Point",
+		"country": "Australia",
+		"postcode": "2165",
+		"since": "14/08/1990",
+		"untill": "14/05/1992",
+		"state": "New South Wales"
+	},
+	"DrivingLicense":{
+		"Country": "Australia",
+		"Number": "0987892",
+		"State": "New South Wales"			
+	},
+	"FirearmLicense":{
+		"yn": "Not Applicable",
+		"Country": "Australia",
+		"Number": "0987892",
+		"State": "New South Wales"			
+	},
+	"Passport":{
+		"yn": "Yes",		
+		"Number": "GF4329781",
+		"Country": "Pakistan"			
+	},
+	"CommenceDoc":{
+		"Type": "Australian Citizenship certificate",
+		"Number": "12345678"			
+	},
+	"SecDoc1":{
+		"Type": "Academic transcript",
+		"Number": "09652371"			
+	},
+	"SecDoc2": {
+		"Type": "Certificate of identity",
+		"Number": "09652371"
+	},
+	"SpecialProv": {
+		"yn": "No"
+	}
+}

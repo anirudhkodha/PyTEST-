@@ -1,0 +1,123 @@
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.address`.
+faker.factory:factory.py:95 Provider `faker.providers.address` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.automotive`.
+faker.factory:factory.py:95 Provider `faker.providers.automotive` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.bank`.
+faker.factory:factory.py:86 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.barcode`.
+faker.factory:factory.py:95 Provider `faker.providers.barcode` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.color`.
+faker.factory:factory.py:95 Provider `faker.providers.color` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.company`.
+faker.factory:factory.py:95 Provider `faker.providers.company` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+faker.factory:factory.py:95 Provider `faker.providers.credit_card` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.currency`.
+faker.factory:factory.py:95 Provider `faker.providers.currency` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.date_time`.
+faker.factory:factory.py:95 Provider `faker.providers.date_time` has been localized to `en_US`.
+faker.factory:factory.py:106 Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:106 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.geo`.
+faker.factory:factory.py:95 Provider `faker.providers.geo` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.internet`.
+faker.factory:factory.py:95 Provider `faker.providers.internet` has been localized to `en_US`.
+faker.factory:factory.py:106 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.job`.
+faker.factory:factory.py:95 Provider `faker.providers.job` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.lorem`.
+faker.factory:factory.py:95 Provider `faker.providers.lorem` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.misc`.
+faker.factory:factory.py:95 Provider `faker.providers.misc` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.passport`.
+faker.factory:factory.py:95 Provider `faker.providers.passport` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.person`.
+faker.factory:factory.py:95 Provider `faker.providers.person` has been localized to `en_US`.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+faker.factory:factory.py:95 Provider `faker.providers.phone_number` has been localized to `en_US`.
+faker.factory:factory.py:106 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:106 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:106 Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.ssn`.
+faker.factory:factory.py:95 Provider `faker.providers.ssn` has been localized to `en_US`.
+faker.factory:factory.py:106 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+pytest_bdd.scenario:scenario.py:94 Adding providers for fixture 'pytestbdd_stepimpl_given_User is on "SAP_QAS" page': [<FixtureDef argname='pytestbdd_stepdef_given_User is on "{pagename}" page' scope='function' baseid=''>]
+selenium.webdriver.common.selenium_manager:selenium_manager.py:72 Selenium Manager binary found at: C:\Projects\WaridI\ServiceNow\emembership_sel\.Venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe
+selenium.webdriver.common.selenium_manager:selenium_manager.py:129 Executing process: C:\Projects\WaridI\ServiceNow\emembership_sel\.Venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --debug --output json
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Found chromedriver 119.0.6045.159 in PATH: C:\Users\WaridI\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 chrome detected at C:\Program Files\Google\Chrome\Application\chrome.exe
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Running command: wmic datafile where name='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe' get Version /value
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Output: "\r\r\n\r\r\nVersion=120.0.6099.71\r\r\n\r\r\n\r\r\n\r"
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Detected browser: chrome 120.0.6099.71
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Required driver: chromedriver 120.0.6099.109
+selenium.webdriver.common.selenium_manager:selenium_manager.py:144 The chromedriver version (119.0.6045.159) detected in PATH at C:\Users\WaridI\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (120.0.6099.71); currently, chromedriver 120.0.6099.109 is recommended for chrome 120.*, so it is advised to delete the driver in PATH and retry
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Driver path: C:\Users\WaridI\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe
+selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Browser path: C:\Program Files\Google\Chrome\Application\chrome.exe
+selenium.webdriver.common.selenium_manager:selenium_manager.py:107 Using driver at: C:\Users\WaridI\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe
+selenium.webdriver.common.service:service.py:219 Started executable: `C:\Users\WaridI\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe` in a child process with pid: 18948 using 0 to output -3
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "none", "acceptInsecureCerts": true, "browserVersion": null, "goog:chromeOptions": {"extensions": [], "binary": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "args": ["--incognito", "--allow-running-insecure-content"]}}}}
+urllib3.connectionpool:connectionpool.py:244 Starting new HTTP connection (1): localhost:57869
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":true,"browserName":"chrome","browserVersion":"120.0.6099.71","chrome":{"chromedriverVersion":"119.0.6045.159 (eaa767197fa7dd412133d1b84f7eb60da43409c9-refs/branch-heads/6045@{#1327})","userDataDir":"C:\\Users\\WaridI\\AppData\\Local\\Temp\\scoped_dir18948_1101925066"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:57881"},"networkConnectionEnabled":false,"pageLoadStrategy":"none","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"fb0572300cf8de54900c2c82d6bf94f4"}} | headers=HTTPHeaderDict({'Content-Length': '881', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize {}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"height":1066,"width":1936,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '52', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/timeouts {"implicit": 100000}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/timeouts HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize {}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"height":1066,"width":1936,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '52', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize {}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/window/maximize HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"height":1066,"width":1936,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '52', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/url {"url": "https://sapqep.nswfire.nsw.gov.au/irj/portal?spnego=disabled"}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/url HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+pytest_bdd.scenario:scenario.py:94 Adding providers for fixture 'pytestbdd_stepimpl_when_User enters valid  SAP credentials "username" "password" to login': [<FixtureDef argname='pytestbdd_stepdef_when_User enters valid  SAP credentials "{usr}" "{pwd}" to login' scope='function' baseid='tests/step_defs/test_SAP_Login.py'>]
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element {"using": "css selector", "value": "table[id=\"tblInnerCnt\"]"}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"0C741998C89ABE87F05040A04645C574_element_5"}} | headers=HTTPHeaderDict({'Content-Length': '94', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element {"using": "css selector", "value": "#logonuidfield"}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"0C741998C89ABE87F05040A04645C574_element_7"}} | headers=HTTPHeaderDict({'Content-Length': '94', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_7/value {"text": "username", "value": ["u", "s", "e", "r", "n", "a", "m", "e"]}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_7/value HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element {"using": "css selector", "value": "#logonpassfield"}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"0C741998C89ABE87F05040A04645C574_element_4"}} | headers=HTTPHeaderDict({'Content-Length': '94', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_4/value {"text": "password", "value": ["p", "a", "s", "s", "w", "o", "r", "d"]}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_4/value HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element {"using": "css selector", "value": "input[type=\"submit\"][value=\"Log On\"]"}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"0C741998C89ABE87F05040A04645C574_element_20"}} | headers=HTTPHeaderDict({'Content-Length': '95', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_20/click {}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/element/0C741998C89ABE87F05040A04645C574_element_20/click HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/execute/sync {"script": "return document.readyState === 'complete'", "args": []}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/execute/sync HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":false} | headers=HTTPHeaderDict({'Content-Length': '15', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4/execute/sync {"script": "return document.readyState === 'complete'", "args": []}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "POST /session/fb0572300cf8de54900c2c82d6bf94f4/execute/sync HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":true} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+selenium.webdriver.remote.remote_connection:remote_connection.py:313 DELETE http://localhost:57869/session/fb0572300cf8de54900c2c82d6bf94f4 {}
+urllib3.connectionpool:connectionpool.py:546 http://localhost:57869 "DELETE /session/fb0572300cf8de54900c2c82d6bf94f4 HTTP/1.1" 200 0
+selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request

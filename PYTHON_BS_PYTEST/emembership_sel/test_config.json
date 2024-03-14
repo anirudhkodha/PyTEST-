@@ -1,0 +1,9 @@
+{
+  "browserstack": "No",
+  "browser": "Chrome",
+  "os": "Windows",
+  "buildName": "Emembership ver 0.3",
+  "implicit_wait": 100
+}
+   
+

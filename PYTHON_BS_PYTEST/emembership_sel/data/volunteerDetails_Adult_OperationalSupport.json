@@ -1,0 +1,57 @@
+{
+	"VolunteerOpt":{
+		"Option": "operational support",
+		"PrevExp": "No"
+	},
+	"Brigade":{
+		"Name": "Adaminaby",
+		"RFSA": "Yes"
+	},
+	"Admin":{
+		"Option": "Yes"
+	},
+	"MedQues":{
+		"Diabetes": "Yes",
+		"Stroke": "No",
+		"BloodThin": "No",
+		"ReleiveMed": "Yes",
+		"Seizure": "No",
+		"Other": "No",
+		"Psychiatric": "No"
+	},
+	"PersonalDetails":{
+		"Title": "Mr",
+		"Gender": "Male",
+		"HomePhone": "0234568765",
+		"WorkPhone": "0243120987",
+		"HomeAdd": {
+			"street": "1 Jansz Pl",
+			"suburb": "Fairfield",
+			"postcode": "2165"
+		},
+		"LivedSince": "12/08/2000",
+		"PostalAdd": "Same as home address",
+		"Member": {
+			"yn": "No",
+			"org": "Religious"
+		}
+	},
+	"EmergencyContact":{
+		"Name": "Paul",
+		"Relation": "Friend",
+		"HomePhone": "0415876903",
+		"WorkPhone": "0254678765"
+	},
+	"Disclosure":{
+		"Reportable": "No",
+		"RepReason":"Automation test run",
+		"Criminal": "No",
+		"CriminalReason":"Automation test run",
+		"MembershipInfo": "No"
+	},
+	"Demographics":{
+		"Identity": "Neither",
+		"Ethnicity": "No",
+		"Disability": "No"
+	}
+}

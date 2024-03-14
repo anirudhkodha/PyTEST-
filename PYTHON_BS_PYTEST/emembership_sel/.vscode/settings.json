@@ -1,0 +1,22 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cucumberautocomplete.customParameters": [
+        {
+            "parameter":"(parsers.cfparse('",
+            "value":"('"
+        }
+    ],
+    "cucumberautocomplete.steps": [
+        "../emembership_sel/conftest.py",
+        "../emembership_sel/tests/step_defs/*.py",
+    ],
+    "cucumberautocomplete.syncfeatures": "../emembership_sel/tests/features/*.feature",
+    "cucumberautocomplete.smartSnippets": true,
+    "cucumberautocomplete.strictGherkinCompletion": false
+
+
+}

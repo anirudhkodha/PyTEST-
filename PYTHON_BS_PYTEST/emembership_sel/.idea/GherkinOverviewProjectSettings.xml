@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Gherkin Overview Project-Level Mappings">
+    <option name="useProjectLevelMappings" value="true" />
+    <option name="mappings">
+      <list>
+        <CategoryAndTags />
+      </list>
+    </option>
+  </component>
+</project>
